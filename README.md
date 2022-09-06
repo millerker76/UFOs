@@ -28,7 +28,7 @@ $\textcolor{blue}{\text{ (figure b)}}$
 * I've added boilerplate text next to the input boxes to instruct users on how to enter the text data (it needs to be in lower case for the filter to "find" it), but this isn't very elegant.  It would be best to update the javascript filter to be case-insensitive.
 * It could be very frustrating to search for the shape filter without knowing which shapes have been stored in the data set.   It would be helpful for the "shape" input filter box to be a drop-down box populated with all the available shapes.
  
-$\textcolor{blue}{\Recommended for Future Development { (figure a)}}$ 
+$\textcolor{blue}{\text{ (Recommended for Future Development)}}$ 
 | -----------------------------------------------------------------------------|                                            
 | Add clear filter button                                                      |
 | Update javascript filter function to be case-insensitive                     | 
