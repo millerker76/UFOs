@@ -5,12 +5,16 @@
 
 ## Overview of the Project:
 My colleague, Dana, has created a UFO Sightings webpage that allows users to view a table of UFO sightings and filter them by date.   At her request I’ve added additional search functionality so that users can also filter the sightings by city, state, country and shape.  Now the users can even more easily search for and display just the sightings that they’re most interested in.   
+![UFOs1](https://user-images.githubusercontent.com/107505166/188700934-50ea85b3-2e41-4285-a673-be4ac880ec63.PNG)
 
-## Instructions for using the multi-criteria search filter
-1. List item
-2. List item
-3. List item
-4. List item
+## Try out the multi-criteria search filter
+<b> Follow these steps to practice using the search filters:</b> 
+
+1.  Enter a state (try <b> ca </b> for California) and notice that the table to the right is now filter to only display sightings in California.  (figure a)
+2.  Experiment with further filtering the results by entering <b> el cajon  </b>  to show only results for El Cajon, California.   (figure b)
+3.  You can continue to further filter results by date, shape, etc. or start over with new criteria. (figure c)
+4.
+
 
 <b>Tip:</b> Use blue boxes (alert-info) for tips and notes. 
 
