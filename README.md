@@ -4,13 +4,13 @@
 ![sighting](https://user-images.githubusercontent.com/107505166/188699439-fd408353-dc08-4297-8fd9-940d427557c6.png)
 
 ## Overview of the Project:
-My colleague, Dana, has created a UFO Sightings webpage that allows users to view a table of UFO sightings and filter them by date.   At her request I’ve added additional search functionality so that users can also filter the sightings by city, state, country and shape.  Now the users can even more easily search for and display just the sightings that they’re most interested in.   
+My colleague, Dana, has created a UFO Sightings website that allows users to view a table of UFO sightings and filter them by date.   At her request I’ve added additional search functionality so that users can also filter the sightings by city, state, country and shape.  Now the users can even more easily search for and display just the sightings that they’re most interested in.   
 ![UFOs1](https://user-images.githubusercontent.com/107505166/188700934-50ea85b3-2e41-4285-a673-be4ac880ec63.PNG)
 
 ## Try out the multi-criteria search filter
 <b> Follow these steps to practice using the search filters:</b> 
 
-1.  Enter a state (try <b> ca </b> for California as in the example below) and notice that the table to the right is now filter to only display sightings in California.  $\textcolor{blue}{\text{ (figure a)}}$ 
+1.  Enter a state (try <b> ca </b> for California as in the example below) and notice that the table to the right is now filtered to only display sightings in California.  $\textcolor{blue}{\text{ (figure a)}}$ 
 2.  Experiment with further filtering the results by entering <b> el cajon  </b>  to show only results for El Cajon, California.   $\textcolor{blue}{\text{ (figure b)}}$ 
 3.  You can continue to further filter results by date, shape, etc. or start over with new criteria. 
 
@@ -20,15 +20,13 @@ $\textcolor{blue}{\text{ (figure a)}}$
 $\textcolor{blue}{\text{ (figure b)}}$ 
 ![Capture3](https://user-images.githubusercontent.com/107505166/188705546-a7b27737-231a-4b54-8ff8-86fc82d1abbf.PNG)
 
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-Summary
-Colons can be used to align columns.
-
+ 
+## Summary
+  ### Drawbacks of the new design
+      1. There are multiple input boxes to allow entering multiple filter criteria, but there is no "clear filter" button, so it's a little awkward to have to manually clear the text entered when ready to enter new filter criteria.
+      2. I've added boilerplate text next to the input boxes to instruct users on how to enter the text data (it needs to be in lower case for the filter to "find" it), but this isn't very elegant.  It would be best to update the javascript filter to be case-insensitive.
+      3. It could be very frustrating to search for the shape filter without knowing which shapes have been stored in the data set.   It would be helpful for the "shape" input filter box to be a drop-down box populated with all the available shapes.
+ 
 | Recommended for future development                                           |
 | -----------------------------------------------------------------------------|                                            
 | Add clear filter button                                                      |
