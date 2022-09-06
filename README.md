@@ -1,4 +1,4 @@
-# UFO Sightings Website enhancements
+# $\textcolor{blue}{\text{UFO Sightings Website Enhancements}}$ 
 
 
 ![sighting](https://user-images.githubusercontent.com/107505166/188699439-fd408353-dc08-4297-8fd9-940d427557c6.png)
@@ -10,17 +10,16 @@ My colleague, Dana, has created a UFO Sightings webpage that allows users to vie
 ## Try out the multi-criteria search filter
 <b> Follow these steps to practice using the search filters:</b> 
 
-1.  Enter a state (try <b> ca </b> for California as in the example below) and notice that the table to the right is now filter to only display sightings in California.   $\textcolor{blue}{\text{ (figure b)}}$ 
+1.  Enter a state (try <b> ca </b> for California as in the example below) and notice that the table to the right is now filter to only display sightings in California.  $\textcolor{blue}{\text{ (figure a)}}$ 
 2.  Experiment with further filtering the results by entering <b> el cajon  </b>  to show only results for El Cajon, California.   $\textcolor{blue}{\text{ (figure b)}}$ 
-3.  You can continue to further filter results by date, shape, etc. or start over with new criteria.  $\textcolor{blue}{\text{ (figure b)}}$ 
+3.  You can continue to further filter results by date, shape, etc. or start over with new criteria.  $\textcolor{blue}{\text{ (figure c)}}$ 
 
-$\textcolor{red}{\text{your text}}$ 
+$\textcolor{blue}{\text{ (figure a)}}$ 
+![Capture2](https://user-images.githubusercontent.com/107505166/188705533-81e92a2c-28e3-466b-ace7-c5144b521a9a.PNG)
 
+$\textcolor{blue}{\text{ (figure b)}}$ 
+![Capture3](https://user-images.githubusercontent.com/107505166/188705546-a7b27737-231a-4b54-8ff8-86fc82d1abbf.PNG)
 
-
-<b>Tip:</b> Use blue boxes (alert-info) for tips and notes. 
-
-<dl>
   <dt>Definition list</dt>
   <dd>Is something people use sometimes.</dd>
 
