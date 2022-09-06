@@ -1,4 +1,4 @@
-# $\textcolor{blue}{\text{UFO Sightings Website Enhancements}}$ 
+# $\textcolor{gray}{\text{UFO Sightings Website Enhancements}}$ 
 
 
 ![sighting](https://user-images.githubusercontent.com/107505166/188699439-fd408353-dc08-4297-8fd9-940d427557c6.png)
@@ -12,7 +12,7 @@ My colleague, Dana, has created a UFO Sightings webpage that allows users to vie
 
 1.  Enter a state (try <b> ca </b> for California as in the example below) and notice that the table to the right is now filter to only display sightings in California.  $\textcolor{blue}{\text{ (figure a)}}$ 
 2.  Experiment with further filtering the results by entering <b> el cajon  </b>  to show only results for El Cajon, California.   $\textcolor{blue}{\text{ (figure b)}}$ 
-3.  You can continue to further filter results by date, shape, etc. or start over with new criteria.  $\textcolor{blue}{\text{ (figure c)}}$ 
+3.  You can continue to further filter results by date, shape, etc. or start over with new criteria. 
 
 $\textcolor{blue}{\text{ (figure a)}}$ 
 ![Capture2](https://user-images.githubusercontent.com/107505166/188705533-81e92a2c-28e3-466b-ace7-c5144b521a9a.PNG)
@@ -29,8 +29,8 @@ $\textcolor{blue}{\text{ (figure b)}}$
 Summary
 Colons can be used to align columns.
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Recommended for future development                                           |
+| -----------------------------------------------------------------------------|                                            
+| Add clear filter button                                                      |
+| Update javascript filter function to be case-insensitive                     | 
+| Add populated drop-down boxes for Country, State/Province and Sighting shape |
