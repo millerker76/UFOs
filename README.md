@@ -6,11 +6,13 @@
 ## Overview of the Project:
 My colleague, Dana, has created a UFO Sightings webpage that allows users to view a table of UFO sightings and filter them by date.   At her request I’ve added additional search functionality so that users can also filter the sightings by city, state, country and shape.  Now the users can even more easily search for and display just the sightings that they’re most interested in.   
 
-In addition, there's a need for newer and younger employees to gain the knowledge and experience of the retirement-eligible staff, and management has requested that this analysis identify employees who are eligible for mentorship opportunities.
+## Instructions for using the multi-criteria search filter
+1. List item
+2. List item
+3. List item
+4. List item
 
-Data Description
-Multiple csv files containing employee data were provided and loaded into tables. Additional tables were created for the analysis.
-database tables
+<b>Tip:</b> Use blue boxes (alert-info) for tips and notes. 
 
 Deliverables
 1. Retirement analysis:
